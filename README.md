@@ -59,7 +59,7 @@ Scikit-Learn • Pandas • NumPy • Seaborn • Oracle • SQL Workbench • C
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=munawarshereen&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=munawarshereen&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" />
 </div>
 
 <br/>
