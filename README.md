@@ -65,8 +65,12 @@ Scikit-Learn • Pandas • NumPy • Seaborn • Oracle • SQL Workbench • C
 <br/>
 
 <!-- Activity Graph -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=munawarshereen&theme=tokyo-night&hide_border=true" width="100%" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munawarshereen&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
 </div>
 
 
