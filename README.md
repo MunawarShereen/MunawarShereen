@@ -47,30 +47,11 @@ Scikit-Learn • Pandas • NumPy • Seaborn • Oracle • SQL Workbench • C
 
 ---
 
-# 📊 GitHub Analytics
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=munawarshereen&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munawarshereen&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=munawarshereen&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" />
-</div>
-
-<br/>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
 
-  <a href="mailto:munawarshereen456@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=munawarshereen456@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -95,11 +76,3 @@ Scikit-Learn • Pandas • NumPy • Seaborn • Oracle • SQL Workbench • C
   </a>
 
 </div>
-
----
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-```
